@@ -961,6 +961,9 @@ div#preloader {
 .team-img {
   position: relative;
 }
+.team-img img {
+  /* height: 322px */
+}
 
 .team-img>a {
   display: block;
